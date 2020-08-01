@@ -1,1 +1,4 @@
-# GH Blog
+---
+title: "my-first-blog"
+date: 2020-08-01
+---
