@@ -1,3 +1,3 @@
-# Welcome to my blog
+# GitHub Pages & Jekyll
 
-I'm glad you are here. I plan to talk about ...
+GitHub Pages with Jekyll
